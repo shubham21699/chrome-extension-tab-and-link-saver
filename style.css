@@ -21,6 +21,7 @@ button {
   font-weight: bold;
   border: 1px solid #5f9341;
   cursor: pointer;
+  border-radius: 5%;
 }
 
 #delete-btn {

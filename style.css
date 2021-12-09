@@ -49,3 +49,7 @@ a {
   color: #8BD8BD;
   font-style: italic;
 }
+
+a:hover {
+  font-weight: bold;
+}
